@@ -1,6 +1,7 @@
 # c/c++
 
 C
+- [array](https://github.com/gengyu-mamba/c-cplusplus/tree/master/c/array) - 数组
 - [union](https://github.com/gengyu-mamba/c-cplusplus/blob/master/c/union.c) - C 共用体
 - [file_operation](https://github.com/gengyu-mamba/c-cplusplus/tree/master/c/file_operation) - 文件操作
 
