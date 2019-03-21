@@ -1,6 +1,7 @@
 # c/c++
 
 C
+- [string](https://github.com/gengyu-mamba/c-cplusplus/blob/master/c/string.c) - 字符串
 - [array](https://github.com/gengyu-mamba/c-cplusplus/tree/master/c/array) - 数组
 - [function](https://github.com/gengyu-mamba/c-cplusplus/tree/master/c/function) - 函数
 - [union](https://github.com/gengyu-mamba/c-cplusplus/blob/master/c/union.c) - C 共用体
